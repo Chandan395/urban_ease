@@ -78,17 +78,3 @@ npm run dev
 ```bash
 npm run dev
 ```
-
----
-
-## 📸 Screenshots (Optional)
-Add your screenshots here.
-
----
-
-## 🤝 Contributing
-Pull requests are welcome!
-
----
-
-## ⭐ If you like this project, don't forget to star the repo!
